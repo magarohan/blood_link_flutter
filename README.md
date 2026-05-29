@@ -29,16 +29,6 @@ A modern Flutter-based blood donation platform designed to make blood donation f
 
 ---
 
-# 📱 App Screenshots
-
-> Add your screenshots here
-
-| Home Screen                          | Donor Search                             | Request Blood                              |
-| ------------------------------------ | ---------------------------------------- | ------------------------------------------ |
-| ![Home](assets/screenshots/home.png) | ![Search](assets/screenshots/search.png) | ![Request](assets/screenshots/request.png) |
-
----
-
 # 🛠 Tech Stack
 
 | Technology          | Usage                |
